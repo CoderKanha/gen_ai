@@ -1,1 +1,6 @@
-../gen_ai_course
+# Virtual environment
+/NLP/text-vectorization/.venv/
+
+# Other folders
+/gen_ai_course/
+/.vscode/
