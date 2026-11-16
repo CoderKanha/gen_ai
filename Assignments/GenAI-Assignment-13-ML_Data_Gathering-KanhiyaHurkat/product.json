@@ -1,0 +1,103 @@
+
+[
+    {
+        "product_id": 101,
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "brand": "Dell",
+        "price": 55000,
+        "quantity": 10,
+        "rating": 4.5,
+        "in_stock": true
+    },
+    {
+        "product_id": 102,
+        "product_name": "Smartphone",
+        "category": "Electronics",
+        "brand": "Samsung",
+        "price": 30000,
+        "quantity": 25,
+        "rating": 4.3,
+        "in_stock": true
+    },
+    {
+        "product_id": 103,
+        "product_name": "Office Chair",
+        "category": "Furniture",
+        "brand": "Godrej",
+        "price": 8500,
+        "quantity": 15,
+        "rating": 4.1,
+        "in_stock": true
+    },
+    {
+        "product_id": 104,
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "brand": "Sony",
+        "price": 4500,
+        "quantity": 0,
+        "rating": 4.6,
+        "in_stock": false
+    },
+    {
+        "product_id": 105,
+        "product_name": "Running Shoes",
+        "category": "Footwear",
+        "brand": "Nike",
+        "price": 6500,
+        "quantity": 20,
+        "rating": 4.4,
+        "in_stock": true
+    },
+    {
+        "product_id": 106,
+        "product_name": "Wrist Watch",
+        "category": "Accessories",
+        "brand": "Titan",
+        "price": 3500,
+        "quantity": 12,
+        "rating": 4.2,
+        "in_stock": true
+    },
+    {
+        "product_id": 107,
+        "product_name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "brand": "JBL",
+        "price": 2500,
+        "quantity": 8,
+        "rating": 4.7,
+        "in_stock": true
+    },
+    {
+        "product_id": 108,
+        "product_name": "Dining Table",
+        "category": "Furniture",
+        "brand": "IKEA",
+        "price": 18000,
+        "quantity": 5,
+        "rating": 4.0,
+        "in_stock": true
+    },
+    {
+        "product_id": 109,
+        "product_name": "Backpack",
+        "category": "Accessories",
+        "brand": "Puma",
+        "price": 2200,
+        "quantity": 0,
+        "rating": 3.9,
+        "in_stock": false
+    },
+    {
+        "product_id": 110,
+        "product_name": "Smart TV",
+        "category": "Electronics",
+        "brand": "LG",
+        "price": 42000,
+        "quantity": 7,
+        "rating": 4.5,
+        "in_stock": true
+    }
+]
