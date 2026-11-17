@@ -1,0 +1,1 @@
+Use python version 3.12 to work with this folder, as the packages used in this text vectorization is compatitble with version 3.12
